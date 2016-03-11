@@ -1,0 +1,81 @@
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			
+<section class="gallery">
+	<div class="container">
+		<div class="row">
+	<div class="col-lg-12 col-sm-12">
+		<h2>√¿À≈–≈ﬂ</h2>
+		<div class="col-lg-4 col-sm-4">
+			<div class="gallery-item1">
+				<a href="gorki.html">
+					<img src="img/lupa.png" alt="">
+					<p>√Œ– »</p>
+				</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-sm-4">
+			<div class="gallery-item2">
+				<a href="kuxnya.html">
+					<img src="img/lupa.png" alt="">
+					<p> ”’ŒÕÕ¿ﬂ Ã≈¡≈À‹</p>
+				</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-sm-4">
+			<div class="gallery-item3">	
+				<a href="ofice.html">
+					<img src="img/lupa.png" alt="">
+					<p>Œ‘»—Õ¿ﬂ Ã≈¡≈À‹</p>
+				</a>
+			</div>
+		</div><div class="col-lg-4 col-sm-4">
+			<div class="gallery-item4">
+				<a href="spalni.html">
+					<img src="img/lupa.png" alt="">
+					<p class="fadeInLeft">—œ¿À‹Õ¿ﬂ Ã≈¡≈À‹</p>
+				</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-sm-4">
+			<div class="gallery-item5">
+				<a href="torgo.html">
+					<img src="img/lupa.png" alt="">
+					<p>“Œ–√Œ¬¿ﬂ Ã≈¡≈À‹</p>
+				</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-sm-4">
+			<div class="gallery-item6">	
+				<a href="detskaya.html">
+					<img src="img/lupa.png" alt="">
+					<p>ƒ≈“— ¿ﬂ Ã≈¡≈À‹</p>
+				</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-sm-4">
+			<div class="gallery-item7">	
+				<a href="shkaf.html">
+					<img src="img/lupa.png" alt="">
+					<p>ÿ ¿‘˚</p>
+				</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-sm-4">
+			<div class="gallery-item8">	
+				<a href="prihoj.html">
+					<img src="img/lupa.png" alt="">
+					<p>œ–»’Œ∆»≈</p>
+				</a>
+			</div>
+		</div>
+	</div>
+			
+		</div>
+	</div>
+</section>
+		</div>
+	</div>
+</div>
