@@ -363,10 +363,12 @@ height: 80px;
 	color: #FFF;
 	font-weight: 700;
 	font-size: 16px;
+
 }
 .gallery .col-lg-4, .gallery .col-sm-4 {
 	text-align: center;
 	margin: 20px 0px;
+	text-align: left;
 }
 
 .gallery a {
@@ -381,12 +383,14 @@ height: 80px;
 	width: 100%;
 	opacity: 1;
 	transition: all 1s ease;
+	text-align: center;
 }
-.gallery img {
+.gallery.gorka img {
 	opacity: 0.9;
-	height: 20%;
+	height: 40px;
+	width: 80px;
 	margin-top: 80px;
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 }
 .gallery-item1 {
 	background-image: url(../img/katalog/gorki/g3.jpg);
@@ -526,7 +530,10 @@ height: 80px;
 .about {
 	text-align: right;
 	padding: 50px 0px;
+	max-width: 95%;
+	margin: 0 auto;
 }
+
 .about h2 {
 	text-align: right;
 }
@@ -555,7 +562,10 @@ height: 80px;
 
 
 
-
+#owl-demo {
+	width: 93%;
+	margin: 0 auto;
+}
 #owl-demo .item{
   margin: 3px;
 }
@@ -564,3 +574,68 @@ height: 80px;
   width: 100%;
   height: 180px;
 }
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+
+
+.logo {
+		-webkit-animation-delay: 0.1s;
+	-o-animation-delay: 0.1s;
+	animation-delay: 0.1s;
+
+}
+
+
+
+
+
+
+.header-info {
+
+	-webkit-animation-delay: 0.3s
+	-o-animation-delay: 0.3s;
+	animation-delay: 0.3s;
+
+}
+
+
+
+
+.social {
+	
+	-webkit-animation-delay: 0.5s
+	-o-animation-delay: 0.5s;
+	animation-delay: 0.5s;
+
+}
+
+
+
+
+
+
+
+
+
+
+.main-phone {
+
+	-webkit-animation-delay: 0.6s;
+	-o-animation-delay: 0.6s;
+	animation-delay: 0.6s;
+
+}
+*/
